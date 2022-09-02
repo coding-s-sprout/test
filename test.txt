@@ -1,2 +1,6 @@
 test1
 create new branch
+
+I like apple
+
+I hate study
